@@ -23,7 +23,6 @@
 //     pattern(n);
 // }
 
-
 ////////its opposite 
 
 // #include<bits/stdc++.h>
