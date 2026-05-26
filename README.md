@@ -1,6 +1,5 @@
 # 100 Days of DSA
 
-
 Start date: 2026-05-23
 Goal: Solve at least one DSA problem per day and log the topic + notes.
 
@@ -10,7 +9,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Daily Log
 - [Done] Day 1 -
 - [Done] Day 2 -
-- [Done] Day 3 -
+- [ ] Day 3 -
 - [ ] Day 4 -
 - [ ] Day 5 -
 - [ ] Day 6 -
