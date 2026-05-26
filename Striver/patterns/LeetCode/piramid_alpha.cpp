@@ -23,7 +23,6 @@
 //     pattern(n);
 // }
 
-
 ////////its opposite 
 
 // #include<bits/stdc++.h>
@@ -89,26 +88,26 @@
 
 ////////////NOW EVERLINE HAVE LIKE AAAAA BBBBBB CCCCCCCC
 
-// #include<bits/stdc++.h>
-// using namespace std;
+#include<bits/stdc++.h>
+using namespace std;
 
-// void pattern(int n )
-// {
-//     char letter = 'A';
-//     for (int i = 0; i < n; i++)
-//     {
-//         for(int j = 0; j <= i; j++)
-//         {
-//             cout<<letter<<" ";            
-//         }
-//         cout<<endl;
-//         letter++;
-//     }
-// }
+void pattern(int n )
+{
+    char letter = 'A';
+    for (int i = 0; i < n; i++)
+    {
+        for(int j = 0; j <= i; j++)
+        {
+            cout<<letter<<" ";            
+        }
+        cout<<endl;
+        letter++;
+    }
+}
 
-// int main()
-// {
-//     int n = 5;
+int main()
+{
+    int n = 5;
 
-//     pattern(n);
-// }
+    pattern(n);
+}
