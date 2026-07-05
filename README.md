@@ -113,6 +113,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -138,4 +140,8 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
