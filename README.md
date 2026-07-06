@@ -113,6 +113,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -144,4 +145,8 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
