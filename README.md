@@ -131,6 +131,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AdixMeena/Aditya_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -177,5 +178,14 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AdixMeena/Aditya_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AdixMeena/Aditya_DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AdixMeena/Aditya_DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
