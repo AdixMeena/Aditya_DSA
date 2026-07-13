@@ -191,4 +191,8 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/AdixMeena/Aditya_DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AdixMeena/Aditya_DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
