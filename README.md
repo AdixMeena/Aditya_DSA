@@ -114,6 +114,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AdixMeena/Aditya_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -165,6 +166,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -177,6 +179,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdixMeena/Aditya_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
