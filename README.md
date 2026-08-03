@@ -121,6 +121,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -143,6 +144,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdixMeena/Aditya_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -191,6 +193,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -297,4 +300,5 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
