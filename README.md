@@ -133,6 +133,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdixMeena/Aditya_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AdixMeena/Aditya_DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -355,4 +356,8 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdixMeena/Aditya_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdixMeena/Aditya_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
