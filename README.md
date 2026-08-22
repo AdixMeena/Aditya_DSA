@@ -223,6 +223,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdixMeena/Aditya_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdixMeena/Aditya_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
