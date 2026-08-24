@@ -125,6 +125,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
@@ -159,6 +160,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdixMeena/Aditya_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -214,6 +216,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
@@ -247,6 +250,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -351,6 +355,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -361,6 +366,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -375,6 +381,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
