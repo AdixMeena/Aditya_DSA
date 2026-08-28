@@ -249,6 +249,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -295,6 +296,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Two Pointers
 |  |
 | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
