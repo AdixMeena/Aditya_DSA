@@ -1,0 +1,28 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.out
+*.class
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.dSYM/
+
+# Common build directories
+build/
+bin/
+obj/
+dist/
+out/
+Debug/
+Release/
+
+# Generated project folders
+.vscode/
+.idea/
+__pycache__/

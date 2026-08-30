@@ -317,60 +317,60 @@ Start date: 2026-05-23
 Goal: Solve at least one DSA problem per day and log the topic + notes.
 
 ## Progress
-- Days completed: 2/100
+- Days completed: 51/100
 
 ## Daily Log
 - [Done] Day 1 -
 - [Done] Day 2 -
-- [ ] Day 3 -
-- [ ] Day 4 -
-- [ ] Day 5 -
-- [ ] Day 6 -
-- [ ] Day 7 -
-- [ ] Day 8 -
-- [ ] Day 9 -
-- [ ] Day 10 -
-- [ ] Day 11 -
-- [ ] Day 12 -
-- [ ] Day 13 -
-- [ ] Day 14 -
-- [ ] Day 15 -
-- [ ] Day 16 -
-- [ ] Day 17 -
-- [ ] Day 18 -
-- [ ] Day 19 -
-- [ ] Day 20 -
-- [ ] Day 21 -
-- [ ] Day 22 -
-- [ ] Day 23 -
-- [ ] Day 24 -
-- [ ] Day 25 -
-- [ ] Day 26 -
-- [ ] Day 27 -
-- [ ] Day 28 -
-- [ ] Day 29 -
-- [ ] Day 30 -
-- [ ] Day 31 -
-- [ ] Day 32 -
-- [ ] Day 33 -
-- [ ] Day 34 -
-- [ ] Day 35 -
-- [ ] Day 36 -
-- [ ] Day 37 -
-- [ ] Day 38 -
-- [ ] Day 39 -
-- [ ] Day 40 -
-- [ ] Day 41 -
-- [ ] Day 42 -
-- [ ] Day 43 -
-- [ ] Day 44 -
-- [ ] Day 45 -
-- [ ] Day 46 -
-- [ ] Day 47 -
-- [ ] Day 48 -
-- [ ] Day 49 -
-- [ ] Day 50 -
-- [ ] Day 51 -
+- [Done] Day 3 -
+- [Done] Day 4 -
+- [Done] Day 5 -
+- [Done] Day 6 -
+- [Done] Day 7 -
+- [Done] Day 8 -
+- [Done] Day 9 -
+- [Done] Day 10 -
+- [Done] Day 11 -
+- [Done] Day 12 -
+- [Done] Day 13 -
+- [Done] Day 14 -
+- [Done] Day 15 -
+- [Done] Day 16 -
+- [Done] Day 17 -
+- [Done] Day 18 -
+- [Done] Day 19 -
+- [Done] Day 20 -
+- [Done] Day 21 -
+- [Done] Day 22 -
+- [Done] Day 23 -
+- [Done] Day 24 -
+- [Done] Day 25 -
+- [Done] Day 26 -
+- [Done] Day 27 -
+- [Done] Day 28 -
+- [Done] Day 29 -
+- [Done] Day 30 -
+- [Done] Day 31 -
+- [Done] Day 32 -
+- [Done] Day 33 -
+- [Done] Day 34 -
+- [Done] Day 35 -
+- [Done] Day 36 -
+- [Done] Day 37 -
+- [Done] Day 38 -
+- [Done] Day 39 -
+- [Done] Day 40 -
+- [Done] Day 41 -
+- [Done] Day 42 -
+- [Done] Day 43 -
+- [Done] Day 44 -
+- [Done] Day 45 -
+- [Done] Day 46 -
+- [Done] Day 47 -
+- [Done] Day 48 -
+- [Done] Day 49 -
+- [Done] Day 50 -
+- [Done] Day 51 -
 - [ ] Day 52 -
 - [ ] Day 53 -
 - [ ] Day 54 -
