@@ -114,6 +114,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
@@ -197,6 +198,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -321,6 +323,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -428,6 +431,14 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdixMeena/Aditya_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->ate: 2026-05-23
 Goal: Solve at least one DSA problem per day and log the topic + notes.
 
