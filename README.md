@@ -114,6 +114,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
@@ -199,6 +200,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -326,6 +328,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
