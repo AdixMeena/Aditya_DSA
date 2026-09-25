@@ -131,6 +131,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1929-concatenation-of-array) |
@@ -233,6 +234,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/1927-sum-game) |
@@ -282,6 +284,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdixMeena/Aditya_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -349,6 +352,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
