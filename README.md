@@ -128,6 +128,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
