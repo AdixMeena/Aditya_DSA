@@ -125,6 +125,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdixMeena/Aditya_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdixMeena/Aditya_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -212,6 +213,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdixMeena/Aditya_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -283,6 +285,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdixMeena/Aditya_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -386,6 +389,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
