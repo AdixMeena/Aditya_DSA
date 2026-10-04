@@ -235,6 +235,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
@@ -404,6 +405,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1406-stone-game-iii) |
@@ -419,12 +421,14 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/AdixMeena/Aditya_DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -470,6 +474,14 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->ate: 2026-05-23
 Goal: Solve at least one DSA problem per day and log the topic + notes.
 
