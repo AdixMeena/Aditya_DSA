@@ -236,6 +236,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
@@ -454,6 +455,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdixMeena/Aditya_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdixMeena/Aditya_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
