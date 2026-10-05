@@ -116,6 +116,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
@@ -348,6 +349,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | ------- |
 | [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdixMeena/Aditya_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
