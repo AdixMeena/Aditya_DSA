@@ -119,6 +119,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AdixMeena/Aditya_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0018-4sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AdixMeena/Aditya_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
@@ -290,6 +292,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AdixMeena/Aditya_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
