@@ -7,11 +7,10 @@ public:
         for(auto i: nums)
         {
             x[i]++;
-            
-        }
-        for(auto it = x.begin(); it!= x.end(); it++)
-        {
-            if(it->second > 1) return true;
+            if(x[i] > 1)
+            {
+                return true;
+            }    
         }
       return false;
     }
