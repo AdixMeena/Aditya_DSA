@@ -216,6 +216,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AdixMeena/Aditya_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AdixMeena/Aditya_DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -266,6 +267,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AdixMeena/Aditya_DSA/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdixMeena/Aditya_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdixMeena/Aditya_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -294,6 +296,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AdixMeena/Aditya_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AdixMeena/Aditya_DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
