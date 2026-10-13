@@ -119,6 +119,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AdixMeena/Aditya_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
@@ -463,6 +464,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdixMeena/Aditya_DSA/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/AdixMeena/Aditya_DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdixMeena/Aditya_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
