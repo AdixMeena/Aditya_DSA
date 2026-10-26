@@ -114,6 +114,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdixMeena/Aditya_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
@@ -165,6 +166,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdixMeena/Aditya_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdixMeena/Aditya_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -494,6 +496,10 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdixMeena/Aditya_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->ate: 2026-05-23
 Goal: Solve at least one DSA problem per day and log the topic + notes.
 
