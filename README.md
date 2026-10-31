@@ -125,6 +125,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0229-majority-element-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/AdixMeena/Aditya_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdixMeena/Aditya_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/AdixMeena/Aditya_DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AdixMeena/Aditya_DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AdixMeena/Aditya_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AdixMeena/Aditya_DSA/tree/master/1288-remove-covered-intervals) |
@@ -167,6 +168,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdixMeena/Aditya_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/AdixMeena/Aditya_DSA/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdixMeena/Aditya_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
