@@ -1,0 +1,1 @@
+        print(f"{rix[i][j]}     ")
