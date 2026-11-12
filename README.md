@@ -118,6 +118,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/AdixMeena/Aditya_DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AdixMeena/Aditya_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0088-merge-sorted-array) |
@@ -169,6 +170,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdixMeena/Aditya_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/AdixMeena/Aditya_DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AdixMeena/Aditya_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/AdixMeena/Aditya_DSA/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdixMeena/Aditya_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
