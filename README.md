@@ -118,6 +118,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [0015-3sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AdixMeena/Aditya_DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdixMeena/Aditya_DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AdixMeena/Aditya_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AdixMeena/Aditya_DSA/tree/master/0075-sort-colors) |
@@ -170,6 +171,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdixMeena/Aditya_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdixMeena/Aditya_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdixMeena/Aditya_DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AdixMeena/Aditya_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/AdixMeena/Aditya_DSA/tree/master/0704-binary-search) |
