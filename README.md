@@ -158,6 +158,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdixMeena/Aditya_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdixMeena/Aditya_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdixMeena/Aditya_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdixMeena/Aditya_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdixMeena/Aditya_DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -200,6 +201,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [1510-stone-game-iv](https://github.com/AdixMeena/Aditya_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdixMeena/Aditya_DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AdixMeena/Aditya_DSA/tree/master/1872-stone-game-viii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdixMeena/Aditya_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdixMeena/Aditya_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/AdixMeena/Aditya_DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -247,6 +249,7 @@ Goal: Solve at least one DSA problem per day and log the topic + notes.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdixMeena/Aditya_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdixMeena/Aditya_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdixMeena/Aditya_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdixMeena/Aditya_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdixMeena/Aditya_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/AdixMeena/Aditya_DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdixMeena/Aditya_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
